@@ -1,0 +1,2 @@
+step 1-download libraries- pip install tensorflow pillow numpy in the vscode terminal
+step 2-run the python file terminal as python app.py
